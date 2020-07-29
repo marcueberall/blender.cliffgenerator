@@ -1,4 +1,4 @@
-# Blender Procedural Cliff Generator
+# Procedural Cliff Generator
 A .blend template file for procedural cliffs and rocks based on the particle system.
 
 ![Result](images/result.jpg)
