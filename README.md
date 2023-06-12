@@ -1,10 +1,8 @@
 # Procedural Cliff Generator 3.0 (ProceduralCliffGenerator_ASSET)
 A complete rework of the 2.0 version now as a asset library. Just include this file into your library folder and drag the CliffGenerator object into your scene. Create collections for macro and micro scatter objects and a geometry shape to model the cliff. You can additionally add a bezier curve to paint cliff arcs in edit mode.
 
-
 # Procedural Cliff Generator 2.0 (ProceduralCliffGenerator_GN)
-This is a node graph version of the original 1.0 implementation.
-
+This is a graph network version of the original 1.0 implementation.
 
 # Procedural Cliff Generator 1.0 (ProceduralCliffGenerator)
 A .blend template file for procedural cliffs and rocks based on the particle system.
